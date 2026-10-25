@@ -113,7 +113,10 @@ if uploaded_file is not None and "gemini_key" in st.session_state:
                             response_content = str(response)
 
                     # Display the response in Streamlit
-                    st.markdown(response_content)
+                    if "RESOURCE_EXHAUSTED" in response_content:
+                        st.warning("⏳ Too many requests for the free plan. Please wait about a minute and try again.")
+                    else:
+                        st.markdown(response_content)
                 
                     
                 except Exception as e:

@@ -16,6 +16,7 @@ Managers often wait for someone to pull numbers from Excel. This app lets them a
 ## What I changed from the original
 - Switched the model from OpenAI GPT-4o to free Google Gemini
 - Fixed a NumPy/pyarrow version conflict in requirements.txt
+- Added a friendly message when the free-tier rate limit is hit, in place of raw error JSON
 
 ## Results
 Tested against answers calculated with pandas:
