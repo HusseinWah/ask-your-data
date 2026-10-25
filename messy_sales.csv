@@ -1,0 +1,187 @@
+order_id,order_date,region,product,units_sold,revenue,sales_rep
+1159,19/09/2026,Alex,Bookshelf,19,"EGP 36,100",Nour
+1114,26/08/2026,Alexandria,Side Table,3,3600,Nour
+1039,2026-07-19,Alex,Floor Lamp,4,"EGP 3,800",Youssef
+1075,2026-08-05,Upper Egypt,Office Chair,12,"EGP 33,600",Omar
+1109,26/08/2026,giza,Floor Lamp,17,"16,150",Nour
+1029,2026-07-12,upper egypt,Floor Lamp,2,"EGP 1,900",Nour
+1158,2026-09-19,Alex,Side Table,14,"16,800",Omar
+1012,05/07/2026,delta,Floor Lamp,8,7600,Youssef
+1006,2026-07-05, Giza,Bookshelf,8,"EGP 15,200",Nour
+1020,2026-07-12,Giza,Side Table,4,"4,800",Karim
+1122,2026-09-05,CAIRO,Desk Lamp,20,9000,Karim
+1070,2026-08-05,Delta,Bookshelf,15,"28,500",Nour
+1011,05/07/2026,delta,Desk Lamp,14,6300,Omar
+1134,05/09/2026,upper egypt,Floor Lamp,4,"3,800",Youssef
+1009,2026-07-05,Alex,Office Chair,,11200,Youssef
+1155,19/09/2026,Giza,Bookshelf,20,"EGP 38,000",Mona
+1124,2026-09-05, Giza,Desk Lamp,15,6750,Mona
+1110,26/08/2026, Giza,Desk Lamp,11,"EGP 4,950",
+1080,2026-08-12, Giza,Bookshelf,18,34200,Omar
+1038,2026-07-19,alexandria,Side Table,14,16800,Mona
+1013,2026-07-05,Upper Egypt,Bookshelf,5,"9,500",Mona
+1108,2026-08-26,Cairo ,Floor Lamp,17,"16,150",Omar
+1144,12/09/2026,alexandria,Bookshelf,4,7600,Youssef
+1015,2026-07-05,upper egypt,Office Chair,19,"53,200",Karim
+1036,19/07/2026,Giza,Floor Lamp,-12,"11,400",Nour
+1081,2026-08-12, Giza,Side Table,8,"9,600",Omar
+1089,2026-08-12,Upper Egypt,Floor Lamp,5,4750,Youssef
+1130,05/09/2026,Delta,Office Chair,12,"EGP 33,600",Youssef
+1102,2026-08-19,Delta,Side Table,17,"EGP 20,400",Omar
+1087,12/08/2026,Delta,Office Chair,18,50400,Nour
+1033,19/07/2026,Cairo,Desk Lamp,13,5850,Omar
+1046,2026-07-26,Cairo ,Office Chair,6,"EGP 16,800",Mona
+1025,2026-07-12,Delta,Floor Lamp,3,2850,Omar
+1166,2026-09-26,Cairo ,Office Chair,-10,"28,000",Nour
+1094,2026-08-19, Giza,Bookshelf,7,13300,Youssef
+1085,2026-08-12,Delta,Side Table,15,"EGP 18,000",Mona
+1112,2026-08-26,alexandria,Desk Lamp,,9000,Nour
+1002,2026-07-05,Cairo ,Floor Lamp,7,"EGP 6,650",Karim
+1054,26/07/2026,Alexandria,Side Table,5,"6,000",Karim
+1048,26/07/2026,cairo,Desk Lamp,17,"EGP 7,650",Nour
+1042,19/07/2026,delta,Office Chair,17,47600,Youssef
+1153,19/09/2026,Cairo,Desk Lamp,11,"EGP 4,950",Youssef
+1121,05/09/2026,CAIRO,Side Table,11,"EGP 13,200",Omar
+1092,2026-08-19,CAIRO,Floor Lamp,15,14250,Mona
+1139,2026-09-12, Giza,Bookshelf,14,"26,600",Youssef
+1057,2026-07-26,delta,Floor Lamp,18,"17,100",Karim
+1008,2026-07-05,alexandria,Floor Lamp,12,"EGP 11,400",Mona
+1168,2026-09-26,Cairo ,Floor Lamp,8,7600,Mona
+1055,2026-07-26,delta,Office Chair,7,"19,600",Mona
+1066,05/08/2026,giza,Office Chair,6,"16,800",Mona
+1030,2026-07-12,Upper Egypt,Side Table,9,10800,Youssef
+1127,05/09/2026,Alex,Side Table,12,"14,400",Karim
+1090,2026-08-12,Upper Egypt,Side Table,5,"6,000",Nour
+1056,2026-07-26,delta,Side Table,7,"EGP 8,400",Omar
+1152,2026-09-19,Cairo ,Floor Lamp,,"EGP 11,400",Omar
+1135,2026-09-05,Upper Egypt,Office Chair,11,"EGP 30,800",Youssef
+1169,2026-09-26,giza,Floor Lamp,17,"EGP 16,150",Youssef
+1045,19/07/2026,Upper Egypt,Floor Lamp,8,7600,Nour
+1101,2026-08-19,Delta,Office Chair,20,"EGP 56,000",Omar
+1095,19/08/2026, Giza,Side Table,4,"4,800",Karim
+1058,2026-07-26,upper egypt,Desk Lamp,14,"EGP 6,300",Karim
+1161,19/09/2026,Delta,Desk Lamp,14,"6,300",Karim
+1104,2026-08-19,Upper Egypt,Floor Lamp,18,"17,100",Nour
+1061,05/08/2026,Cairo,Desk Lamp,9,"EGP 4,050",Omar
+1014,2026-07-05,upper egypt,Desk Lamp,2,EGP 900,Karim
+1064,2026-08-05,Giza,Side Table,2,"EGP 2,400",Mona
+1078,12/08/2026,Cairo,Floor Lamp,9,"EGP 8,550",Omar
+1083,2026-08-12,Alexandria,Floor Lamp,8,7600,Karim
+1084,2026-08-12,alexandria,Bookshelf,9,17100,Youssef
+1145,2026-09-12,delta,Desk Lamp,6,2700,Karim
+1149,2026-09-12,upper egypt,Desk Lamp,14,"6,300",Mona
+1151,2026-09-19,Cairo ,Side Table,9,"10,800",Karim
+1125,05/09/2026,Giza,Bookshelf,9,17100,Karim
+1128,2026-09-05,Alex,Bookshelf,4,"7,600",Karim
+1175,26/09/2026,delta,Floor Lamp,14,"EGP 13,300",Omar
+1044,2026-07-19,upper egypt,Office Chair,17,"EGP 47,600",Youssef
+1023,2026-07-12,alexandria,Side Table,11,13200,Karim
+1099,2026-08-19,Alexandria,Desk Lamp,17,"EGP 7,650",Omar
+1073,05/08/2026,Upper Egypt,Desk Lamp,14,"EGP 6,300",Nour
+1164,19/09/2026,Upper egypt,Office Chair,6,"16,800",Mona
+1050,2026-07-26, Giza,Side Table,10,"12,000",Youssef
+1068,05/08/2026,Alex,Side Table,18,"21,600",Nour
+1140,2026-09-12, Giza,Side Table,14,"16,800",Karim
+1100,19/08/2026,Delta,Desk Lamp,11,"4,950",Nour
+1154,2026-09-19,Giza,Desk Lamp,6,"EGP 2,700",Mona
+1165,2026-09-19,Upper Egypt,Floor Lamp,6,5700,Karim
+1026,2026-07-12,delta,Desk Lamp,,"EGP 4,500",Nour
+1021,12/07/2026,giza,Floor Lamp,2,"1,900",Nour
+1003,2026-07-05,Cairo ,Office Chair,4,"EGP 11,200",Omar
+1038,2026-07-19,alexandria,Side Table,14,16800,Mona
+1162,19/09/2026,delta,Office Chair,2,"EGP 5,600",Karim
+1171,26/09/2026,Giza,Bookshelf,4,"7,600",Karim
+1173,26/09/2026,Alexandria,Side Table,14,"EGP 16,800",Omar
+1106,2026-08-26,Cairo ,Bookshelf,20,"38,000",Mona
+1040,2026-07-19,Delta,Side Table,16,"EGP 19,200",Omar
+1018,12/07/2026,Cairo,Bookshelf,7,13300,Karim
+1137,12/09/2026,cairo,Desk Lamp,16,"EGP 7,200",Omar
+1120,26/08/2026,Upper egypt,Office Chair,6,16800,Karim
+1052,2026-07-26,Alexandria,Desk Lamp,16,"EGP 7,200",Karim
+1176,26/09/2026,Delta,Office Chair,4,11200,Nour
+1059,26/07/2026,Upper egypt,Side Table,,"2,400",Omar
+1010,2026-07-05,Delta,Side Table,2,2400,Nour
+1071,2026-08-05,delta,Side Table,2,"2,400",Omar
+1126,2026-09-05, Giza,Office Chair,19,"EGP 53,200",Nour
+1177,26/09/2026,delta,Side Table,5,"EGP 6,000",Omar
+1124,2026-09-05, Giza,Desk Lamp,15,6750,Mona
+1111,26/08/2026, Giza,Office Chair,10,"28,000",Youssef
+1074,05/08/2026,upper egypt,Side Table,6,"EGP 7,200",Omar
+1098,2026-08-19,Alexandria,Side Table,8,"EGP 9,600",Youssef
+1031,2026-07-19,Cairo ,Bookshelf,13,"EGP 24,700",Omar
+1047,26/07/2026,cairo,Bookshelf,4,7600,Nour
+1172,2026-09-26,alexandria,Desk Lamp,16,"EGP 7,200",Mona
+1150,12/09/2026,Upper egypt,Bookshelf,18,34200,Mona
+1001,2026-07-05,cairo,Side Table,18,"21,600",Nour
+1106,2026-08-26,Cairo ,Bookshelf,20,"38,000",Mona
+1016,2026-07-12,Cairo ,Office Chair,14,"EGP 39,200",Karim
+1019,12/07/2026,giza,Office Chair,2,"EGP 5,600",
+1178,2026-09-26,Upper Egypt,Side Table,14,16800,Omar
+1043,2026-07-19,upper egypt,Bookshelf,8,"15,200",Nour
+1105,2026-08-19,upper egypt,Bookshelf,2,"EGP 3,800",
+1115,2026-08-26,delta,Side Table,3,3600,Karim
+1096,19/08/2026,giza,Desk Lamp,18,"EGP 8,100",Mona
+1117,2026-08-26,delta,Desk Lamp,8,"3,600",Karim
+1179,2026-09-26,Upper egypt,Bookshelf,5,"9,500",Karim
+1034,19/07/2026,Giza,Desk Lamp,11,4950,Mona
+1118,26/08/2026,upper egypt,Desk Lamp,6,"2,700",Youssef
+1072,05/08/2026,Delta,Desk Lamp,5,"2,250",Karim
+1017,12/07/2026,CAIRO,Side Table,2,2400,Karim
+1062,05/08/2026,Cairo,Floor Lamp,12,"EGP 11,400",Omar
+1142,12/09/2026,Alexandria,Office Chair,7,"19,600",Nour
+1116,2026-08-26,delta,Bookshelf,5,"EGP 9,500",Mona
+1032,2026-07-19,Cairo,Office Chair,,56000,Nour
+1119,26/08/2026,upper egypt,Bookshelf,20,"38,000",Omar
+1069,05/08/2026,Alexandria,Bookshelf,8,"15,200",Omar
+1093,2026-08-19,Cairo ,Office Chair,8,"EGP 22,400",Youssef
+1024,2026-07-12,alexandria,Bookshelf,,"EGP 13,300",Nour
+1174,26/09/2026,Alexandria,Bookshelf,5,"9,500",Karim
+1163,19/09/2026,Upper Egypt,Side Table,7,"EGP 8,400",Omar
+1107,2026-08-26,Cairo ,Side Table,19,22800,Nour
+1123,2026-09-05,Cairo,Bookshelf,9,"17,100",Mona
+1177,26/09/2026,delta,Side Table,5,"EGP 6,000",Omar
+1035,19/07/2026, Giza,Side Table,16,19200,Karim
+1022,12/07/2026,Alexandria,Office Chair,6,"16,800",Karim
+1146,12/09/2026,delta,Floor Lamp,17,"EGP 16,150",Youssef
+1007,05/07/2026,alexandria,Desk Lamp,10,4500,Youssef
+1148,12/09/2026,Upper egypt,Floor Lamp,3,"EGP 2,850",Mona
+1133,2026-09-05,upper egypt,Side Table,2,2400,Omar
+1051,26/07/2026,giza,Bookshelf,20,"38,000",Omar
+1147,12/09/2026,Delta,Bookshelf,12,"EGP 22,800",Nour
+1037,2026-07-19,alexandria,Desk Lamp,17,"7,650",Nour
+1132,2026-09-05,delta,Desk Lamp,19,"8,550",Omar
+1129,05/09/2026,alexandria,Desk Lamp,16,"EGP 7,200",Nour
+1091,19/08/2026,Cairo ,Desk Lamp,14,"6,300",Youssef
+1060,26/07/2026,upper egypt,Bookshelf,12,"22,800",Karim
+1141,2026-09-12,giza,Floor Lamp,7,"EGP 6,650",Mona
+1077,12/08/2026,CAIRO,Bookshelf,2,"3,800",Youssef
+1138,2026-09-12,CAIRO,Office Chair,9,"EGP 25,200",Mona
+1065,05/08/2026, Giza,Bookshelf,7,13300,Nour
+1041,19/07/2026,Delta,Floor Lamp,,3800,Mona
+1099,2026-08-19,Alexandria,Desk Lamp,17,"EGP 7,650",Omar
+1027,12/07/2026,Delta,Office Chair,17,"47,600",Mona
+1076,2026-08-12,cairo,Desk Lamp,2,900,Karim
+1086,2026-08-12,delta,Desk Lamp,5,"EGP 2,250",Mona
+1131,2026-09-05,delta,Bookshelf,20,"EGP 38,000",
+1053,2026-07-26,alexandria,Office Chair,-6,16800,Nour
+1097,19/08/2026,Alex,Office Chair,12,33600,Nour
+1143,12/09/2026,alexandria,Desk Lamp,4,1800,Youssef
+1028,2026-07-12,upper egypt,Office Chair,19,53200,Karim
+1113,2026-08-26,Alex,Floor Lamp,14,"13,300",Nour
+1167,26/09/2026,Cairo,Desk Lamp,4,1800,Nour
+1079,12/08/2026,Giza,Desk Lamp,8,"EGP 3,600",Nour
+1088,12/08/2026,Upper Egypt,Desk Lamp,19,8550,
+1049,26/07/2026,giza,Floor Lamp,12,11400,Mona
+1085,2026-08-12,Delta,Side Table,15,"EGP 18,000",Mona
+1067,05/08/2026,alexandria,Office Chair,19,"53,200",Karim
+1005,05/07/2026,giza,Desk Lamp,2,EGP 900,Omar
+1136,12/09/2026,Cairo ,Bookshelf,16,"30,400",Youssef
+1156,2026-09-19,giza,Side Table,8,9600,Omar
+1170,2026-09-26, Giza,Side Table,14,"EGP 16,800",Nour
+1063,2026-08-05,Cairo ,Side Table,4,"EGP 4,800",Omar
+1082,2026-08-12,Alex,Office Chair,13,"36,400",Youssef
+1180,2026-09-26,upper egypt,Office Chair,7,19600,Nour
+1157,2026-09-19,Alex,Office Chair,18,50400,Youssef
+1103,2026-08-19,upper egypt,Desk Lamp,5,"EGP 2,250",Nour
+1004,2026-07-05,Giza,Office Chair,4,11200,Karim
+1160,19/09/2026,Delta,Bookshelf,9,17100,Karim
